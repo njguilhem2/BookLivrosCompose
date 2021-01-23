@@ -1,0 +1,2 @@
+# BookLivrosCompose
+Utilizando docker compose
